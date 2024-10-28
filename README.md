@@ -1,9 +1,9 @@
-create a new repository on the command line
-echo "# Demo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/aakashrajarnav/Demo.git
-git remote set-url origin https://github.com/aakashrajarnav/Low-Level-Design-LLD.git
-git push -u origin main
+create a new repository on the command line <br />
+echo "# Demo" >> README.md <br />
+git init <br />
+git add README.md <br />
+git commit -m "first commit" <br />
+git branch -M main <br />
+git remote add origin https://github.com/aakashrajarnav/Demo.git <br />
+git remote set-url origin https://github.com/aakashrajarnav/Low-Level-Design-LLD.git <br />
+git push -u origin main <br />
